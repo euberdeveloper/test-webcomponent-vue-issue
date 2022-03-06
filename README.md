@@ -28,3 +28,7 @@ The point is that there is already this piece of code here:
 ```
 
 but it seems completely being ignored.
+
+## EDIT: Answer
+
+The answer is that this is the behaviour of `rem`. Unfortunately there can not be other behaviour and the unique solution is avoid using `rem` or making it configurable.
